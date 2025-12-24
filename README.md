@@ -11,7 +11,7 @@ Pandas • NumPy • Matplotlib • Seaborn • Data Modeling
 📈 Strong at data cleaning, EDA, KPI analysis, and insight generation
 📊 Experienced in translating raw data into business-ready dashboards and reports
 🧠 Analytical mindset with strong problem-solving and stakeholder-focused thinking
-💞️ Open to high-impact Data Analyst roles, analytics-driven teams, and challenging problem statements
+   Open to high-impact Data Analyst roles, analytics-driven teams, and challenging problem statements
 
 📂 Selected Projects
 
@@ -21,9 +21,9 @@ Pandas • NumPy • Matplotlib • Seaborn • Data Modeling
 • Built SQL queries and Python-based EDA to support business decisions
 
 📊 Exploratory Data Analysis (Multiple Business Datasets)
-👉 GitHub Repo: (add your repo link)
+👉 GitHub Repo: https://github.com/AdityaGond503/Churn_Data_Analysis.git
 • Performed structured EDA, feature-level analysis, and insight reporting
 
 📈 Power BI Business Dashboards
-👉 GitHub Repo: (add your repo link)
+👉 GitHub Repo: https://github.com/AdityaGond503/HR_Analytics_dashboard.git 
 • Designed interactive dashboards focused on KPIs and executive-level insights
