@@ -3,7 +3,6 @@
 📊 Data Analyst | Business Intelligence Enthusiast
 
 💻 Tech Stack: Python • SQL • Advanced MS Excel • Power BI
-Pandas • NumPy • Matplotlib • Seaborn • Data Modeling
 
 🔥 About Me
 
@@ -15,15 +14,16 @@ Pandas • NumPy • Matplotlib • Seaborn • Data Modeling
 
 📂 Selected Projects
 
+🚕 Uber Supply–Demand Gap Analysis
+👉 GitHub Repo: https://github.com/AdityaGond503/Uber-Supply-Demand-Gap-Analysis.git
+• Analyze hourly demand and supply trends
+• Identify peak gap hours
+
 🍕 Pizza Sales Performance Analysis
 👉 GitHub Repo: https://github.com/AdityaGond503/Pizza_Sales_Analysis
 • Analyzed sales trends, customer behavior, and revenue drivers
 • Built SQL queries and Python-based EDA to support business decisions
 
-📊 Exploratory Data Analysis (Multiple Business Datasets)
-👉 GitHub Repo: https://github.com/AdityaGond503/Churn_Data_Analysis.git
-• Performed structured EDA, feature-level analysis, and insight reporting
-
-📈 Power BI Business Dashboards
+📈 HR-Analytics Dashboards
 👉 GitHub Repo: https://github.com/AdityaGond503/HR_Analytics_dashboard.git 
 • Designed interactive dashboards focused on KPIs and executive-level insights
